@@ -100,7 +100,3 @@ python code/test.py
 ## 📜 License
 
 This project uses data from the PhysioNet 2012 Challenge.
-
-```
-
-```
