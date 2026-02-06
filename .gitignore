@@ -30,11 +30,6 @@ env/
 .env
 .venv/
 
-# PyTorch
-*.pth
-*.pt
-best_physionet_lstm.pth
-
 # Data files (Important: Don't commit large datasets)
 Processed_Data/
 *.npy
